@@ -19,7 +19,7 @@
 	<sonar.projectKey>karthiks07_ordersoner</sonar.projectKey>
   	<sonar.organization>karthiks07</sonar.organization>
   	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  	<sonar.login>09c008818be9c57f9c73bdf389ad1d7f594adaaf</sonar.login
+  	<sonar.login>09c008818be9c57f9c73bdf389ad1d7f594adaaf</sonar.login>
 	 
     </properties>
 	<dependencyManagement>  
